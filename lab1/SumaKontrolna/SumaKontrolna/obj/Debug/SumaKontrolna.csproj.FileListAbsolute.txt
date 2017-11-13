@@ -1,0 +1,5 @@
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab1\SumaKontrolna\SumaKontrolna\bin\Debug\SumaKontrolna.exe
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab1\SumaKontrolna\SumaKontrolna\bin\Debug\SumaKontrolna.pdb
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab1\SumaKontrolna\SumaKontrolna\obj\Debug\SumaKontrolna.csprojResolveAssemblyReference.cache
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab1\SumaKontrolna\SumaKontrolna\obj\Debug\SumaKontrolna.exe
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab1\SumaKontrolna\SumaKontrolna\obj\Debug\SumaKontrolna.pdb

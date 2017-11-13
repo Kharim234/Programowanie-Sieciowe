@@ -1,0 +1,5 @@
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab1\test\test\bin\Debug\test.dll
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab1\test\test\bin\Debug\test.pdb
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab1\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab1\test\test\obj\Debug\test.dll
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab1\test\test\obj\Debug\test.pdb

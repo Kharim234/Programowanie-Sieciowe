@@ -1,0 +1,5 @@
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab1\test\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab1\test\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab1\test\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab1\test\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab1\test\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
