@@ -10,10 +10,10 @@ namespace SumaKontrolna
             byte m;
             byte b = 0;
             byte a = 0;
-            char[] zmienne = new char[] {'d', 'c', 'x'};
+            char[] zmienne = new char[] {'a', 'b'};
             foreach (var v in zmienne)
             {
-                for (int j = 1; j < 8; j++)
+                for (int j = 0; j < 8; j++)
                 {
                     m = (byte) (1 << (j - 1));
 
