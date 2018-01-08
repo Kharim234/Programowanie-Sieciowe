@@ -1,0 +1,5 @@
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab2\CRC\CRC\bin\Debug\CRC.exe
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab2\CRC\CRC\bin\Debug\CRC.pdb
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab2\CRC\CRC\obj\Debug\CRC.csprojResolveAssemblyReference.cache
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab2\CRC\CRC\obj\Debug\CRC.exe
+D:\LABORATORIUM\Michal_Malinowski\Programowanie-Sieciowe\lab2\CRC\CRC\obj\Debug\CRC.pdb
